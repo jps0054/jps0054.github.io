@@ -215,7 +215,7 @@ btn-wayra:hover {
 /*-- menu-navigation --*/
 
 nav {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(255,255,255, 0.5);
     height: 100%;
     position: fixed;
     right: -220px;
@@ -228,6 +228,7 @@ nav {
     z-index: 9001;
     /* IT'S OVER 9000! */
     padding-top: 4em;
+    background: #ffffff;
 }
 
 #menuToggle {
@@ -297,7 +298,7 @@ nav a:hover:after {
 
 .menu nav a:hover,
 .menu nav a:focus {
-    color: #cfdce5;
+    color: #000000;
 }
 
 .open nav {
@@ -379,7 +380,7 @@ h3.agileits-title {
 }
 
 a.wthree-.about-link {
-    color: #fff;
+    color: #000000;
     border: 1px solid #03afdd;
     background: #03afdd;
     border-radius: 0;
