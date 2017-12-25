@@ -89,7 +89,7 @@ body a:focus {
     border: solid #7ecaf6;
     border-width: 4px;
     color: rgb(255, 255, 255);
-    background: #567182;
+    background: #000000;
     padding: 0 1em;
     letter-spacing: 1px;
     font-weight: 800;
@@ -113,7 +113,7 @@ h2.w3ls-bnrtext span {
 
 p.w3ls-p {
     font-size: 1.2em;
-    color: #fff;
+    color: #41c1f4;
     text-transform: capitalize;
     padding-top: 1em;
     letter-spacing: 1px;
@@ -228,7 +228,7 @@ nav {
     z-index: 9001;
     /* IT'S OVER 9000! */
     padding-top: 4em;
-    background: #ffffff;
+    background: #000;
 }
 
 #menuToggle {
